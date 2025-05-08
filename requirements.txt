@@ -1,0 +1,129 @@
+# Core Data Science
+numpy
+pandas
+ydata-profiling
+scipy
+scikit-learn
+statsmodels
+
+# Deep Learning
+tensorflow
+keras
+transformers
+sentence-transformers
+
+# Data Processing & ETL
+pyodbc
+sqlalchemy
+python-dotenv
+requests
+beautifulsoup4
+lxml
+openpyxl
+xlrd
+pyarrow
+fastparquet
+
+# Visualization
+matplotlib
+seaborn
+plotly
+bokeh
+altair
+
+# Machine Learning Extensions
+xgboost
+lightgbm
+catboost
+scikit-image
+imbalanced-learn
+
+# Natural Language Processing
+nltk
+spacy
+gensim
+textblob
+
+# Azure libraries
+azure-identity
+azure-ai-ml
+azure-storage-blob
+openai
+azure-ai-projects
+azure-ai-inference
+azure-search-documents
+azure-ai-evaluation
+azure-monitor-opentelemetry
+azure-ai-documentintelligence
+azure-ai-contentsafety
+azure-ai-formrecognizer
+azure-ai-textanalytics
+
+# API Development
+fastapi
+uvicorn
+pydantic
+python-multipart
+httpx
+
+# Testing
+pytest
+pytest-cov
+coverage
+
+# Code Quality
+black
+flake8
+isort
+mypy
+pylint
+
+# Jupyter Environment
+jupyter
+jupyterlab
+notebook
+ipykernel
+ipywidgets
+
+# Documentation
+sphinx
+mkdocs
+mkdocs-material
+
+# Utilities
+tqdm
+joblib
+python-dateutil
+pytz
+tenacity
+click
+rich
+
+# Model Serving & Deployment
+mlflow
+bentoml
+ray
+
+# Feature Engineering
+feature-engine
+category-encoders
+
+# Time Series
+prophet
+pmdarima
+
+# Image Processing
+Pillow
+opencv-python
+albumentations
+
+# Performance Optimization
+numba
+dask
+
+# Experiment Tracking
+wandb
+tensorboard
+
+# Version Control
+dvc
