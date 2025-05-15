@@ -21,6 +21,7 @@ wheels/
 *.egg
 MANIFEST
 .env
+!.env.example
 .venv
 env/
 venv/
@@ -201,4 +202,4 @@ secrets/
 .credentials
 .config
 .auth
-auth_token.txt
+auth_token.txtn
